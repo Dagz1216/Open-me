@@ -23,7 +23,7 @@ noButton.addEventListener('click', () => {
 yesButton.addEventListener('click', () => {
     // Change the GIF and message when Yes is clicked
     backgroundGif.src = 'https://media1.tenor.com/m/UXLmgQdkDesAAAAd/robert-bri.gif'; // New GIF URL
-    message.innerText = "I know you love me";
+    message.innerText = "I know you love me!!!";
 
     // Reset the buttons and message for the next interaction after a delay
     setTimeout(() => {
